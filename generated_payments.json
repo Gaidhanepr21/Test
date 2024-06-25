@@ -1,0 +1,3609 @@
+{
+  "meta": {
+    "tracingId": "5cef4ba1-4fc7-4d72-a7ff-5b105e781453"
+  },
+  "data": {
+    "payments": [
+      {
+        "id": "pv3-fcda779c-163e-4f0b-84e6-21d9eeba56f0",
+        "institutionConsentId": "sdp-1-d39b5250-f869-41d3-b1e9-3779d5e525ca",
+        "paymentIdempotencyId": "09eaf555-f95d-4dff-bd6b-0180ba419552",
+        "paymentLifecycleId": "b95860da-9212-4c5c-9460-3d32f9aa98e9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-23T08:57:07Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "47696151"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "947331"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 97.13,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 63.57,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-04T01:54:12Z"
+      },
+      {
+        "id": "pv3-6d1f528f-250c-4ed7-8950-e5a9fa609526",
+        "institutionConsentId": "sdp-1-7d3f88cc-92f4-4668-a917-b56f8c579954",
+        "paymentIdempotencyId": "3f808d3a-f3ad-431d-ac77-017519271f55",
+        "paymentLifecycleId": "8810ea03-ab07-4bbf-8248-3df4b1329c8f",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-30T01:35:05Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "78162405"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "741287"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 16.11,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 56.43,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-04-22T09:27:21Z"
+      },
+      {
+        "id": "pv3-0cbf2297-eed2-458c-b88c-bf4a4f321409",
+        "institutionConsentId": "sdp-1-be858676-dafc-4e60-9eda-53d21f631737",
+        "paymentIdempotencyId": "b906f7ac-f547-44f7-89da-673ecd9ba49a",
+        "paymentLifecycleId": "5e792b3a-afea-4126-ad8e-5486d5cf9ba3",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-08T13:39:08Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "62970897"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "976261"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 11.65,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 50.65,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-15T00:12:58Z"
+      },
+      {
+        "id": "pv3-f70049ab-10e8-40b6-afd3-b75d789fb937",
+        "institutionConsentId": "sdp-1-4bbec9b6-6b43-4a4f-b37e-58a275fe2bee",
+        "paymentIdempotencyId": "573b641c-1424-45d7-8ceb-db1e49ea4f4e",
+        "paymentLifecycleId": "069b9048-4394-474e-aa10-d6e1ecb6ebac",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-03T05:29:18Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "27057233"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "346865"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 49.27,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 34.86,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-15T23:12:49Z"
+      },
+      {
+        "id": "pv3-bc722614-6f45-4873-827a-a5f73f8da269",
+        "institutionConsentId": "sdp-1-4b418fd3-d4a0-4d8b-a832-afab2a1636ba",
+        "paymentIdempotencyId": "8a0ada2a-f34e-475d-89a5-05589095a9a9",
+        "paymentLifecycleId": "a7a29fc8-a652-46bf-8ead-4a8dea7cae85",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-24T01:47:55Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37169342"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "609410"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 49.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 81.12,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-08T21:54:45Z"
+      },
+      {
+        "id": "pv3-1a4919f8-29eb-41a5-bc96-136aac5cfa4a",
+        "institutionConsentId": "sdp-1-2342ec33-db8c-4900-b491-ada136ae8316",
+        "paymentIdempotencyId": "5536be12-3198-42a2-9bec-1d6247c22843",
+        "paymentLifecycleId": "a338c10b-afe8-4fe9-a2f0-223e7f45f8cd",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-06-01T15:57:20Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "63485499"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "356166"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 64.63,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 73.5,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-23T12:32:51Z"
+      },
+      {
+        "id": "pv3-d6b9540e-f4ed-4359-9bb3-b87ed7498479",
+        "institutionConsentId": "sdp-1-cdbe54fc-137a-40e9-90cd-0156825e7e4e",
+        "paymentIdempotencyId": "e6d669cc-bfe4-4f1f-81b6-5e046fea9ea6",
+        "paymentLifecycleId": "71896638-fc35-4b0c-96aa-d0d0f40a9313",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-07T02:23:54Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "86149467"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "729924"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 16.8,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 87.6,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-11T08:07:40Z"
+      },
+      {
+        "id": "pv3-0fba34d6-7466-4da7-a0aa-4f76a7a2bf60",
+        "institutionConsentId": "sdp-1-665eb0ab-be46-4c47-8172-9fdffd1c62a7",
+        "paymentIdempotencyId": "002d82db-5a87-4099-9759-243366c1715f",
+        "paymentLifecycleId": "a163b58e-33c4-45fe-b1a6-403df3c70bb9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-03T05:28:24Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "43123050"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "431837"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 17.49,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 66.97,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-21T14:54:14Z"
+      },
+      {
+        "id": "pv3-6463f835-1575-4f70-b7e3-d8e7dfee435d",
+        "institutionConsentId": "sdp-1-1c64cd50-db34-44b8-a5c4-da2c84717f4c",
+        "paymentIdempotencyId": "37e044b2-4bde-4b44-a408-cac8f9cf7331",
+        "paymentLifecycleId": "0847c698-ecf9-4ac9-ab9f-d495870ad1af",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-21T10:02:36Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "79989224"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "194222"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 59.69,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.73,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-28T23:21:58Z"
+      },
+      {
+        "id": "pv3-c1ab2e08-7a35-48b7-a72a-2f5c0491fa7c",
+        "institutionConsentId": "sdp-1-a9da82dd-e5d6-4614-a852-54f656f71ae4",
+        "paymentIdempotencyId": "a6115a10-d1f1-4d3f-9d4b-b14c79233716",
+        "paymentLifecycleId": "81b3e694-423d-44fc-8dab-c74626236ada",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-14T17:02:50Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "89081602"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "727899"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 50.48,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 48.98,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-10T17:24:32Z"
+      },
+      {
+        "id": "pv3-8e69ef7a-515c-4fbc-be26-9d5a51b92d05",
+        "institutionConsentId": "sdp-1-10e018db-5b9a-4539-a377-e11a6eabf44c",
+        "paymentIdempotencyId": "5688b436-514c-4b1e-8867-4143e5c6737a",
+        "paymentLifecycleId": "89c13248-f5c4-4f84-8acf-5e30d03ff4e9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-03T21:14:26Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "75051742"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "711014"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 61.68,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 67.46,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-24T02:56:54Z"
+      },
+      {
+        "id": "pv3-bd46932e-5714-47ec-a482-72b436484696",
+        "institutionConsentId": "sdp-1-22046251-de19-40b9-8155-ab0da9240034",
+        "paymentIdempotencyId": "1e783785-597a-4b53-bbad-f8b91f3b737b",
+        "paymentLifecycleId": "d56afe7f-0679-43a7-8edf-e4122c1d836e",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-10T08:42:37Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "44739237"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "743188"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 46.56,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 82.86,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-09T13:06:38Z"
+      },
+      {
+        "id": "pv3-72849850-e418-4214-927b-be0c19954f0a",
+        "institutionConsentId": "sdp-1-e2987ec6-2cce-4a97-a9d4-92dd9ef42475",
+        "paymentIdempotencyId": "c130f500-b52b-4fba-918d-7436abda236a",
+        "paymentLifecycleId": "57dd483d-f107-464e-b145-cb3ac8596013",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-17T22:25:57Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "15334742"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "689073"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 4.89,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 65.23,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-02T06:07:26Z"
+      },
+      {
+        "id": "pv3-5c712f89-0d90-4707-bf8e-0f3fc803a083",
+        "institutionConsentId": "sdp-1-c1b40e1d-43cf-4ec8-a2cb-e9d2a0704469",
+        "paymentIdempotencyId": "5f57d323-4fb0-4eaf-84d5-9e353f390d0d",
+        "paymentLifecycleId": "39d7d143-6f0d-44cc-8b72-b0785553270c",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-25T22:33:41Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "52376294"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "487098"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 58.79,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 92.6,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-15T04:49:29Z"
+      },
+      {
+        "id": "pv3-4270dfe5-2e7e-4e3b-8446-cc156301146a",
+        "institutionConsentId": "sdp-1-8f27c8ae-f32e-4a7c-9987-92b624051a3b",
+        "paymentIdempotencyId": "e154cfd4-4b27-4a25-81c2-a03720da00ef",
+        "paymentLifecycleId": "6fa4fc48-43d8-4fc9-8382-22988b86324b",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-01T02:39:54Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "99896018"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "907172"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 72.74,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 82.86,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-11T15:27:22Z"
+      },
+      {
+        "id": "pv3-9a4704c1-aebf-4b1d-923c-a1fbe9d6efdd",
+        "institutionConsentId": "sdp-1-80bad821-b366-4db1-bfe4-9b76cca6c7f8",
+        "paymentIdempotencyId": "ca4f273b-595d-4b34-a384-98bd39d2af94",
+        "paymentLifecycleId": "11be7d8b-9c5b-463c-9da3-12f6e792e8ad",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-07-30T22:48:08Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "44953258"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "297083"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 26.98,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 32.23,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-04-27T07:12:19Z"
+      },
+      {
+        "id": "pv3-e9654c49-341c-4990-9b84-7ea21a6e8fcf",
+        "institutionConsentId": "sdp-1-728ebae2-2c2a-4973-80ba-0a6a440f445a",
+        "paymentIdempotencyId": "17a34a68-c9a1-49b2-8aa8-0f883b7be0d0",
+        "paymentLifecycleId": "d2e429ec-516c-49d9-ab97-cc72330d89ff",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-18T07:07:39Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "13568983"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "705869"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 2.93,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 46.78,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-23T23:19:43Z"
+      },
+      {
+        "id": "pv3-1c734330-52cc-4374-bf90-e184812eacf7",
+        "institutionConsentId": "sdp-1-5f718d9b-ed6f-4d34-983f-60ca1755686b",
+        "paymentIdempotencyId": "2f2a4882-3123-4425-8d2d-6ac7644e7924",
+        "paymentLifecycleId": "b6fa94b5-62d8-4c83-b083-d5312161ce52",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-06-03T17:46:20Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "76141669"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "777537"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 64.18,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 88.38,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-01-09T20:35:11Z"
+      },
+      {
+        "id": "pv3-1077be1f-0204-43f3-a8d3-311a2c1935b5",
+        "institutionConsentId": "sdp-1-4a9ca3b4-bcb8-4459-b49e-27e8474812ff",
+        "paymentIdempotencyId": "df4c2f61-fef2-494b-b5a6-41f0840f8d85",
+        "paymentLifecycleId": "c3a15ac9-16f7-4033-9fc6-b5712f3f691e",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-14T19:44:30Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "15805452"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "469534"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 53.13,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 54.24,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-16T06:51:29Z"
+      },
+      {
+        "id": "pv3-a4fb83cb-2019-4a05-975c-9b0a966f4c98",
+        "institutionConsentId": "sdp-1-19a1575c-1655-47cb-8092-1f3ad817365b",
+        "paymentIdempotencyId": "9649e96c-dadb-42de-b9ba-232f1ac71fbf",
+        "paymentLifecycleId": "e70596e3-4732-4702-bf77-498f59bcefd6",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-20T23:45:10Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "19912908"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "847636"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 34.19,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 33.38,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-11T03:16:42Z"
+      },
+      {
+        "id": "pv3-42db2faa-0b3b-4bda-8463-d7b89721c890",
+        "institutionConsentId": "sdp-1-c9da1a75-d963-4855-8dd7-5d4024873b27",
+        "paymentIdempotencyId": "eaf93f55-3aab-4b65-a0b5-56e01977ea1d",
+        "paymentLifecycleId": "811d17bf-0a5e-4c17-88f5-94c3b04b87b9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-10T14:29:41Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "59974708"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "844060"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 46.66,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 45.8,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-12T21:25:08Z"
+      },
+      {
+        "id": "pv3-8be1c72f-bf7a-4e06-8908-3997b9478948",
+        "institutionConsentId": "sdp-1-065cbc00-cfef-4f05-a684-7678afa64b49",
+        "paymentIdempotencyId": "fdfc3a87-cde5-4ba7-8f63-b8664a1d8ed0",
+        "paymentLifecycleId": "adf6fef6-8daf-4adf-953c-7d3c54ced548",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-05T14:32:32Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "50593691"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "589226"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 64.82,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 13.11,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-04T14:26:34Z"
+      },
+      {
+        "id": "pv3-2c8a7d94-d122-41ad-9e11-92b041df7b4e",
+        "institutionConsentId": "sdp-1-f2f13feb-6a33-4810-b922-cfcec6427cfe",
+        "paymentIdempotencyId": "150b2042-c5c1-4bd7-b393-e0b26e508f97",
+        "paymentLifecycleId": "49a033df-2334-4a7e-b345-6c5ebbad0718",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-22T19:27:50Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "12842368"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "714067"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 25.11,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 97.69,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-04T16:59:13Z"
+      },
+      {
+        "id": "pv3-0d1e031b-e996-443b-a334-3d704552621b",
+        "institutionConsentId": "sdp-1-6a2954f6-6477-4116-9641-0131e3f307e3",
+        "paymentIdempotencyId": "96893aeb-353d-4a3d-862c-9efca447034e",
+        "paymentLifecycleId": "f65c6140-60a4-4a0d-912c-13a0af93aebb",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-12-09T12:38:18Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "12101808"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "701429"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 46.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 35.45,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-15T14:51:05Z"
+      },
+      {
+        "id": "pv3-fc8bf305-43f4-4aeb-b510-3a5508a44e90",
+        "institutionConsentId": "sdp-1-08f444e3-6603-4f32-9fc8-3c30ea169d86",
+        "paymentIdempotencyId": "89ec2f15-3352-44c2-a5bc-401ce0a0539a",
+        "paymentLifecycleId": "1531570f-a482-41e1-a479-3eb41c687ada",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-06-06T14:45:01Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "92527212"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "484093"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 51.02,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 62.39,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-29T12:59:45Z"
+      },
+      {
+        "id": "pv3-5382e849-1784-4011-9926-ba1d08a60232",
+        "institutionConsentId": "sdp-1-e14f72c8-3883-4d07-bc71-271a1b377e23",
+        "paymentIdempotencyId": "40996059-bcab-406b-a309-2b2f86419777",
+        "paymentLifecycleId": "ba4ec944-2825-4509-835e-14cf7d1b98ee",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-17T04:53:53Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37994495"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "886432"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 70.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 54.28,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-04-01T15:01:35Z"
+      },
+      {
+        "id": "pv3-39455866-7cff-4988-b6be-3a614d949574",
+        "institutionConsentId": "sdp-1-1bb1c512-a295-4e22-bf9b-893abace4ea6",
+        "paymentIdempotencyId": "b2a58956-c48f-42c2-be25-08a12becef18",
+        "paymentLifecycleId": "a65fa7f1-74e8-4898-bc70-eef082cbaf89",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-05T17:38:29Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "42930497"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "295840"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 4.58,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 19.72,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-04T20:37:09Z"
+      },
+      {
+        "id": "pv3-3f305120-c217-4157-89ab-2186cbfd855f",
+        "institutionConsentId": "sdp-1-b6241327-d30c-4a6d-a639-3e64a7e4c0a2",
+        "paymentIdempotencyId": "10bdc756-fa7a-4cbd-8a6a-ab73f32bba0b",
+        "paymentLifecycleId": "deccd73a-6c25-4fe8-993b-364627aad5e5",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-23T05:42:34Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "57981992"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "433993"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 67.28,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 23.44,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-24T01:30:21Z"
+      },
+      {
+        "id": "pv3-0188f3bb-c2a7-40ae-8505-833eb5b224b5",
+        "institutionConsentId": "sdp-1-3b88ec5b-8281-4e98-a14f-ceb338790af3",
+        "paymentIdempotencyId": "a8b8af74-cf8b-4c19-a731-547eeaaf4454",
+        "paymentLifecycleId": "ecdd8334-9aa1-4e9a-8fd1-cf9c7efa77c2",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-17T06:34:26Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37261297"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "664013"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 7.88,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 59.67,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-26T09:18:11Z"
+      },
+      {
+        "id": "pv3-f6f2e1a8-a844-47f0-80dc-317d037450b9",
+        "institutionConsentId": "sdp-1-57f4652c-282f-47bc-b775-1f68ef825b06",
+        "paymentIdempotencyId": "f8570cc5-7f45-4d0c-9445-c19cb96d318c",
+        "paymentLifecycleId": "a4c90dd5-8f08-4ebb-a078-b65097166110",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-09T16:37:45Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "71106957"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "166336"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 52.99,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 64.21,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-31T13:50:26Z"
+      },
+      {
+        "id": "pv3-74c38705-930d-4a38-b65c-4baedce2ba33",
+        "institutionConsentId": "sdp-1-08d98b7d-021f-407c-9703-4812c7a30b8e",
+        "paymentIdempotencyId": "8c4d49cc-590a-466c-a4c9-9ec19d14d275",
+        "paymentLifecycleId": "abdedd20-0389-4c0e-8a29-3ed4ae58d448",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-21T08:47:16Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "91478550"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "772583"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 50.18,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 7.36,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-10T09:51:00Z"
+      },
+      {
+        "id": "pv3-f54f29e8-b6f8-4171-8ccc-ac003d05ecdd",
+        "institutionConsentId": "sdp-1-ada45053-9d4e-4578-a096-1015dc0c049d",
+        "paymentIdempotencyId": "266094a2-1b6c-42ac-a95f-e9b70b40c540",
+        "paymentLifecycleId": "8e0aeded-6971-40cd-a09d-6898ef4773e9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-07-22T14:46:12Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "47648261"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "264639"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 24.25,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.5,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-27T20:09:54Z"
+      },
+      {
+        "id": "pv3-935a434f-1971-405c-859d-d3e381c02b19",
+        "institutionConsentId": "sdp-1-c3b88872-64d5-46bb-9214-8bcc8353ecde",
+        "paymentIdempotencyId": "5e9fe518-a814-4584-8115-1665ab9d3809",
+        "paymentLifecycleId": "2d505e1c-1c2d-4515-87b8-1c6af6c91c99",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-14T02:34:50Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "62626865"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "183875"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 39.54,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 79.0,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-01T07:32:09Z"
+      },
+      {
+        "id": "pv3-920df6fe-7e88-43ee-87b9-7960412e7e93",
+        "institutionConsentId": "sdp-1-2f2536ac-cb26-4182-a9d6-065af009ac32",
+        "paymentIdempotencyId": "f1f35405-57f4-4628-95f9-96f0d47dfbf3",
+        "paymentLifecycleId": "792a0788-7e82-44d9-bf85-d09863f7a4b3",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-01T00:42:58Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "35760545"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "696061"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 5.68,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 72.77,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-14T02:49:15Z"
+      },
+      {
+        "id": "pv3-74caf7e7-b18c-4c17-808e-19b5069a7a0f",
+        "institutionConsentId": "sdp-1-f2c6a75e-df07-42da-bbe1-2136f275804e",
+        "paymentIdempotencyId": "4e4359db-4cf4-40ca-876d-6c6ae0bffec8",
+        "paymentLifecycleId": "c063f60a-6fa6-42a0-9ca7-f17331e20020",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-17T17:03:31Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "54491713"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "901483"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 52.99,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 84.17,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-04T16:19:23Z"
+      },
+      {
+        "id": "pv3-9597db2a-f988-4a09-9544-b98d47dd8051",
+        "institutionConsentId": "sdp-1-1dd069e5-f656-4227-bd67-649808d0a38e",
+        "paymentIdempotencyId": "e1861ad1-3034-462f-82c3-8d3b345f30c5",
+        "paymentLifecycleId": "156d71d9-5edd-4ff5-813b-610b81e9ab4a",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-08T06:58:12Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "12842391"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "704979"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 34.47,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 28.18,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-18T05:33:37Z"
+      },
+      {
+        "id": "pv3-c28e25cb-a8e0-45c0-ab5c-23ef7dc2984c",
+        "institutionConsentId": "sdp-1-f74892f8-fe67-43f4-9b9b-b6c6415149a2",
+        "paymentIdempotencyId": "c875165f-3888-483a-8762-f683d192c67c",
+        "paymentLifecycleId": "c0a4eef2-5b18-4e35-8a7c-d212d1be0114",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-07-16T03:24:48Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "97336614"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "928788"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 20.58,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 22.16,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-10T18:30:25Z"
+      },
+      {
+        "id": "pv3-fe1336a0-be0d-466e-baaf-720413a7b812",
+        "institutionConsentId": "sdp-1-72db66af-7093-441b-8642-edbbfe098cbf",
+        "paymentIdempotencyId": "1b7781d1-f429-41cf-a672-2c0734f4c593",
+        "paymentLifecycleId": "140531b5-a9be-4c12-9eb9-333bcfe57721",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-15T02:59:08Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "69902102"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "922896"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 67.09,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 3.41,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-25T00:40:50Z"
+      },
+      {
+        "id": "pv3-580cdeb8-8b6f-456b-a472-22c097794c91",
+        "institutionConsentId": "sdp-1-5098716c-f9cc-4d66-91a8-8bccab955dc8",
+        "paymentIdempotencyId": "e50d11aa-82a0-4273-bd44-ef5e3492bedb",
+        "paymentLifecycleId": "5d7319eb-35dd-4c0b-9025-21a6374c0148",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-06T05:57:50Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "32487301"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "208655"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 67.49,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 16.26,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-13T12:43:03Z"
+      },
+      {
+        "id": "pv3-a036bfb7-53dc-4244-b615-48601c59afac",
+        "institutionConsentId": "sdp-1-c3def8b2-a6e4-4d57-9725-99082fff5217",
+        "paymentIdempotencyId": "dc3ce7f1-e594-40c4-944e-9a2f091e66d6",
+        "paymentLifecycleId": "ba74dcac-5174-46be-88af-b35b68aab5a6",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-31T14:44:33Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "14942718"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "797130"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 37.35,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 21.52,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-24T17:09:00Z"
+      },
+      {
+        "id": "pv3-e6101ab7-a4e8-49f7-80ff-ecb82206d12c",
+        "institutionConsentId": "sdp-1-ba0a7c31-47b7-424a-b1ea-e72fef2ba7c4",
+        "paymentIdempotencyId": "f54ccee8-d2b9-4524-8da6-c8ae51e42bad",
+        "paymentLifecycleId": "078de9a2-a47c-4cd5-bf91-56667acee76b",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-19T13:35:20Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "52282013"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "598439"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 94.82,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 32.71,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-22T02:56:37Z"
+      },
+      {
+        "id": "pv3-1333f618-2e71-4fd7-a023-e20ae021ee0c",
+        "institutionConsentId": "sdp-1-b5068c9e-18b5-475a-bfaa-71befce6f5e3",
+        "paymentIdempotencyId": "2351b4a0-d114-4ae2-8c51-f1da40b56318",
+        "paymentLifecycleId": "c30026cc-4b55-4b20-baf4-2680af07f9d2",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-14T09:56:10Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "15263618"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "937576"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 94.92,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 96.34,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-27T11:27:59Z"
+      },
+      {
+        "id": "pv3-e1c45860-f33f-48c4-9e34-83a13b6eb338",
+        "institutionConsentId": "sdp-1-c5a5d287-a8aa-4336-bf8d-fda9c0df228d",
+        "paymentIdempotencyId": "f06e90c8-e689-48e9-95c0-0fe26e7c188b",
+        "paymentLifecycleId": "39b8a63f-976a-440c-ae67-f18616502621",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-12T09:02:25Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37888149"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "233675"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 34.6,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 12.7,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-06T17:35:20Z"
+      },
+      {
+        "id": "pv3-d4085d6f-a89d-4ff5-b83e-05b65dc16c24",
+        "institutionConsentId": "sdp-1-49a27229-7134-4f3d-a5a9-233fd0604e69",
+        "paymentIdempotencyId": "f6768e34-fecb-4f26-a66d-ad7ea46c047c",
+        "paymentLifecycleId": "95a6deff-5e45-4a3f-ba9c-8a3dff6395ca",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-19T10:59:31Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "22065907"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "195137"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 25.24,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 3.01,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-30T10:23:08Z"
+      },
+      {
+        "id": "pv3-e725a91b-d3da-46fc-93c8-9d2298cc1c39",
+        "institutionConsentId": "sdp-1-0a2719f1-9e44-464d-96fa-6d8e59ce35a2",
+        "paymentIdempotencyId": "d260ad77-18cb-45ee-b621-390fe5dd1788",
+        "paymentLifecycleId": "01fe4d01-c977-4f5f-be67-f885c4665d2d",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-27T18:41:46Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "41657395"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "781743"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 61.67,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 76.39,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-24T07:05:23Z"
+      },
+      {
+        "id": "pv3-28a27d8b-c65c-4f56-a3ab-1c165559a0a7",
+        "institutionConsentId": "sdp-1-9800366d-6762-462d-a539-e963ab31b6e5",
+        "paymentIdempotencyId": "46e9a192-447c-403c-970e-a159534763d4",
+        "paymentLifecycleId": "5d2acf1a-a2d0-4038-99ab-b9fe4675e425",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-07-31T23:51:59Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "22942218"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "222871"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 96.37,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 39.03,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-23T09:31:00Z"
+      },
+      {
+        "id": "pv3-73abb205-8363-4ffb-8041-9d026c1d2962",
+        "institutionConsentId": "sdp-1-59b59a3d-17d7-4c3a-a431-be6ff674eba4",
+        "paymentIdempotencyId": "22ca1d8f-3dfd-422c-94b8-19aa844393ef",
+        "paymentLifecycleId": "718c5121-744e-4133-a7ed-7edef77e6052",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-05T13:22:02Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "26302220"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "716467"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 38.39,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 67.36,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-01-31T00:59:01Z"
+      },
+      {
+        "id": "pv3-344049d0-80b5-47be-8001-c20c24e6a111",
+        "institutionConsentId": "sdp-1-f2509c87-0f46-4170-9c47-0a4bab853d22",
+        "paymentIdempotencyId": "d8be8575-69b4-4902-ba9e-c23848dad4a0",
+        "paymentLifecycleId": "8a5b6b45-6d24-49eb-872f-ef7cf3769872",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-06-28T21:48:22Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "78980810"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "131786"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 86.34,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 43.07,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-23T11:26:46Z"
+      },
+      {
+        "id": "pv3-9f63b736-8418-4e45-a07f-923b4b207634",
+        "institutionConsentId": "sdp-1-87b545f1-4a4d-418e-a12d-09ee51b8bc8e",
+        "paymentIdempotencyId": "2569b655-070e-432e-81f1-9b1ff86d808d",
+        "paymentLifecycleId": "d14a2b6e-8bc2-4bcb-bd07-e530bec4d014",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-18T23:27:26Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "40463955"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "995158"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 37.19,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 46.84,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-18T19:34:55Z"
+      },
+      {
+        "id": "pv3-932bd94b-a3c1-4ac2-8104-c01f07f670ea",
+        "institutionConsentId": "sdp-1-ff45000a-5d6d-43a7-a4c8-7f0a50572855",
+        "paymentIdempotencyId": "9a67e513-8c9e-4873-a7a1-2350728a0061",
+        "paymentLifecycleId": "0a4ca441-7f59-472a-88ee-ddf5cd3ef434",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-24T22:24:07Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "13591997"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "464245"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 42.44,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 57.57,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-04T14:11:34Z"
+      },
+      {
+        "id": "pv3-1ab6cac8-ae49-42d6-94c3-957d6260a10f",
+        "institutionConsentId": "sdp-1-a2783416-e80f-463f-b908-45f7b2c63940",
+        "paymentIdempotencyId": "1a50b274-a7b8-471c-84d6-5a83ff0aa35c",
+        "paymentLifecycleId": "48ae96ce-1e68-4b4f-83aa-02e4c8af8d75",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-12-23T11:44:56Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "22867344"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "158882"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 16.57,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 82.47,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-10T19:52:52Z"
+      },
+      {
+        "id": "pv3-016f4a15-4f8f-48ee-abb7-405aa60d1fba",
+        "institutionConsentId": "sdp-1-6a293505-47fd-4586-967b-06619c94e17b",
+        "paymentIdempotencyId": "720144ce-f3b6-4afe-9857-4b672ecf2f08",
+        "paymentLifecycleId": "dcd49d12-8d22-4a86-8d64-3a0a1453ec82",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-20T09:27:20Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "92409136"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "988862"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 45.54,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 36.4,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-18T05:39:33Z"
+      },
+      {
+        "id": "pv3-4e21b5b7-3bd3-4af1-8613-188bd3291724",
+        "institutionConsentId": "sdp-1-02cf8688-bea7-4454-967e-c7b844d7da9f",
+        "paymentIdempotencyId": "5a7de3ca-7193-4ea3-8d34-9c897e467363",
+        "paymentLifecycleId": "5b31a194-7132-41ff-a45f-57bd87f1f212",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-12-10T15:35:46Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "93004390"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "811449"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 34.37,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 65.47,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-15T22:51:03Z"
+      },
+      {
+        "id": "pv3-033acd6f-546e-4f8a-9156-d576d666184c",
+        "institutionConsentId": "sdp-1-07c3148c-63b9-424d-ac0b-fa79b62a3e29",
+        "paymentIdempotencyId": "9c27fcad-5e21-41ca-abe1-aaf0e0fe02b9",
+        "paymentLifecycleId": "ade8b589-62f7-4ecd-94cc-b7b578fa62d6",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-21T14:33:11Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "70126040"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "927229"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 82.65,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 86.51,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-19T02:10:33Z"
+      },
+      {
+        "id": "pv3-b6fe677a-09ea-414b-a5e9-141cdd579baf",
+        "institutionConsentId": "sdp-1-ed3a996f-c806-4cd6-9da0-96ad095a0c2c",
+        "paymentIdempotencyId": "5e652766-97f6-4443-b81e-ddbf06700f4b",
+        "paymentLifecycleId": "d12fffdc-c010-4cd6-87ae-29d20e1a496c",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-17T16:32:05Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "26488830"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "511498"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 52.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 70.55,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-20T06:53:35Z"
+      },
+      {
+        "id": "pv3-68a67da8-c9cc-44c2-a36d-38f7bb306f65",
+        "institutionConsentId": "sdp-1-7c2bdaa4-34bc-4a45-b222-4edeb710876b",
+        "paymentIdempotencyId": "88a7b306-3a65-43ed-99d9-6ff979ae5ed3",
+        "paymentLifecycleId": "65032f76-4920-4124-bae8-f6427868b298",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-27T18:50:22Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "96414319"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "654227"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 24.22,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.91,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-01-02T17:10:10Z"
+      },
+      {
+        "id": "pv3-d7aafab8-de31-4f3b-b226-f5ece4d9b2c0",
+        "institutionConsentId": "sdp-1-fc91a0b4-0ea4-4c92-9d1f-6aea277f4f93",
+        "paymentIdempotencyId": "eeed35d7-a0e0-4b28-85ce-f46192acbc55",
+        "paymentLifecycleId": "9046209c-4b85-4325-8d6d-3a82f3eb67ed",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-18T22:22:08Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "96900662"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "358126"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 99.74,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 2.2,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-01T09:48:25Z"
+      },
+      {
+        "id": "pv3-0b7de0da-8bd1-40b0-9ab0-6b265d1702bf",
+        "institutionConsentId": "sdp-1-ece517ff-f3d1-40d0-9415-dad570449708",
+        "paymentIdempotencyId": "bc792ef4-512d-4507-a8e5-f29eabcb0623",
+        "paymentLifecycleId": "dadfa107-9b75-4bea-a2b2-970ab1c108b8",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-28T12:21:52Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "68820894"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "505816"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 9.48,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 45.8,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-01T08:45:12Z"
+      },
+      {
+        "id": "pv3-226b51a1-0ef1-4aef-9baa-7388927a6a59",
+        "institutionConsentId": "sdp-1-23893129-03d0-4151-94fb-f74894f818c9",
+        "paymentIdempotencyId": "0d75dfaf-a4d4-41b9-b6f0-525a224bcf3d",
+        "paymentLifecycleId": "276a45ff-63df-4322-8375-908b78b2f140",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-11T12:50:20Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "10040538"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "843683"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 30.3,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 55.68,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-24T18:52:22Z"
+      },
+      {
+        "id": "pv3-7714746a-3893-4c05-b0ed-b18ed2e3e95d",
+        "institutionConsentId": "sdp-1-e665ad9b-ca4d-4812-8a2f-86a70549dc3f",
+        "paymentIdempotencyId": "b6a5ff39-6c1c-458b-8d84-0a806a8788bd",
+        "paymentLifecycleId": "9a82cb9c-ca77-4e49-bad1-6b4018bbd8dd",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-28T16:10:45Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "87244469"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "277683"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 79.46,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 48.02,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-04T23:15:24Z"
+      },
+      {
+        "id": "pv3-9d15f677-4376-425d-8fc9-cf84a7875d27",
+        "institutionConsentId": "sdp-1-cf02950d-3784-4126-865d-823bd06a515f",
+        "paymentIdempotencyId": "b0eaf2d9-d7a9-4228-9747-876d5692a3f7",
+        "paymentLifecycleId": "7178bbad-fa29-4e0c-a4a7-9369745e3f23",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-15T04:24:18Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "77752026"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "113485"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 88.65,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 31.74,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-09T10:57:21Z"
+      },
+      {
+        "id": "pv3-aa6075af-4b09-411b-b60e-b3eadbb90c9d",
+        "institutionConsentId": "sdp-1-b361963b-0317-4bcc-80a4-753627e17e55",
+        "paymentIdempotencyId": "c2303ef6-42bd-47a7-9b4c-a05df1149c6e",
+        "paymentLifecycleId": "05511b7e-f8c3-47c5-8b69-528897119baa",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-30T15:55:49Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "25487512"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "139574"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 37.11,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 90.59,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-12T14:07:03Z"
+      },
+      {
+        "id": "pv3-6d2e15be-29ab-42a1-ae90-ee15804b643d",
+        "institutionConsentId": "sdp-1-ddf1e495-3401-4e95-a585-800301cce867",
+        "paymentIdempotencyId": "9b04cb41-507b-462b-81cb-43f5d24968cc",
+        "paymentLifecycleId": "b2fa6187-0a96-4f80-ac17-ad799047326e",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-25T12:53:23Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "89499069"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "674022"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 67.81,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 99.43,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-25T16:07:59Z"
+      },
+      {
+        "id": "pv3-dc767919-80c2-47fd-ae79-7f9fa075bb8d",
+        "institutionConsentId": "sdp-1-d8b10608-3e74-45d9-aeaa-72a8d1732b5b",
+        "paymentIdempotencyId": "a71e7f1e-15ba-4101-96c2-3e5b8b8c7a94",
+        "paymentLifecycleId": "bfb9f7b4-480b-4835-b12e-89ffd2cdcbf8",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-17T11:38:39Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "58060558"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "704179"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 17.97,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 15.21,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-12T14:41:33Z"
+      },
+      {
+        "id": "pv3-8a30ac52-fd1d-40d9-a315-fb2202071bfd",
+        "institutionConsentId": "sdp-1-e172e19e-376b-4d21-b35c-dabb512048f4",
+        "paymentIdempotencyId": "7ede5155-7dab-4a0a-8ee9-02e9f99aea5e",
+        "paymentLifecycleId": "d8a358a6-cdcb-49e5-b90e-d12ae999eb91",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-14T18:54:26Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "67457294"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "677116"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 20.53,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 42.38,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-14T15:28:06Z"
+      },
+      {
+        "id": "pv3-74e4df43-9823-4b24-9131-06f43a14f1ec",
+        "institutionConsentId": "sdp-1-ad9a79e4-6c53-4891-bc29-703f515a69fb",
+        "paymentIdempotencyId": "a52346ec-989e-49ed-9dc9-070081da1d6a",
+        "paymentLifecycleId": "a1f58599-7a73-4ac2-bdb0-43df04afb148",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-16T09:51:03Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "92848029"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "145263"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 30.75,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 18.83,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-07T09:27:48Z"
+      },
+      {
+        "id": "pv3-5ff34486-271a-465c-9409-aacb25a142d4",
+        "institutionConsentId": "sdp-1-eca96089-2bf1-43cb-b732-804b06b776b5",
+        "paymentIdempotencyId": "fc48f7e5-1d32-4f71-9812-a489aad8ee80",
+        "paymentLifecycleId": "bff30842-4376-497d-880f-affe29937646",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-23T09:40:16Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "59677754"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "588561"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 24.65,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 20.56,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-07T13:24:48Z"
+      },
+      {
+        "id": "pv3-e4fd5a57-5f24-4002-85bb-019eab75266d",
+        "institutionConsentId": "sdp-1-51c500fe-9376-4e86-867f-901afba60e38",
+        "paymentIdempotencyId": "91c11b43-f881-4665-8399-7958666553c4",
+        "paymentLifecycleId": "40a0dbb0-5668-47a7-9f74-cec6a27f71f8",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-28T11:28:42Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "99637053"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "896363"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 84.57,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 3.31,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-24T21:34:44Z"
+      },
+      {
+        "id": "pv3-c3e9b28f-d836-4901-ba06-a253e14c8da3",
+        "institutionConsentId": "sdp-1-3f1423ae-eee8-406e-9b10-e218ae056fb4",
+        "paymentIdempotencyId": "944cf23e-6a44-4d27-817e-63c164743f66",
+        "paymentLifecycleId": "36f840bf-20f1-4f8f-bed2-624881cc7c96",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-24T10:24:55Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "74467221"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "796650"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 17.12,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 57.64,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-06T06:02:29Z"
+      },
+      {
+        "id": "pv3-9187a050-2744-489b-b998-9bf444c7c8b6",
+        "institutionConsentId": "sdp-1-b75587e3-fd71-4e91-af1e-4c43158c1268",
+        "paymentIdempotencyId": "11fcfef5-1924-49a4-ac49-6a5b4e72a74e",
+        "paymentLifecycleId": "158421ff-ab20-4c30-96e8-0d982172ccc9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-20T19:05:47Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "51243443"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "514528"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 44.62,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 16.65,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-04-12T20:15:17Z"
+      },
+      {
+        "id": "pv3-d900edcb-302f-40b4-a782-ed972628ee32",
+        "institutionConsentId": "sdp-1-dbeb88be-b6af-4fe8-bc50-459577911091",
+        "paymentIdempotencyId": "e0f652f8-8953-4876-847c-4c4a8a9c3841",
+        "paymentLifecycleId": "f87e22fa-e1a1-476b-8ef8-534896a89cdd",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-26T12:59:44Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "85044450"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "421137"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 2.26,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 37.96,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-26T22:19:12Z"
+      },
+      {
+        "id": "pv3-1c5d282e-a482-4e92-b08f-83d1653ca3fe",
+        "institutionConsentId": "sdp-1-63c83728-9358-47d4-ba1e-3c0545fe2dfc",
+        "paymentIdempotencyId": "f21ac0e0-bfd3-4d02-809f-e54b8dd18ef6",
+        "paymentLifecycleId": "87a01c5c-749e-47da-8a5f-265e226c58d8",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-06-09T08:49:17Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "25089124"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "174045"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 9.59,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 30.16,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-09T06:15:34Z"
+      },
+      {
+        "id": "pv3-4488820a-29f8-440f-b613-df74ea81793b",
+        "institutionConsentId": "sdp-1-f59dd1a1-f17b-4b21-98ec-95037c72e252",
+        "paymentIdempotencyId": "aad9cf64-1264-454c-8b37-19b3d371d8be",
+        "paymentLifecycleId": "5008c4f2-a2be-4ef4-ab30-adbb0aaca6c9",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-08T00:00:39Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "39571195"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "416378"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 31.22,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 66.56,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-05T18:08:09Z"
+      },
+      {
+        "id": "pv3-a90ee33f-db2c-4936-8841-e6a4e23ed5c9",
+        "institutionConsentId": "sdp-1-c00f33fd-f094-402e-acde-5cd19a34769e",
+        "paymentIdempotencyId": "521cf149-8cfb-4d86-903e-0420e14c46b4",
+        "paymentLifecycleId": "aae01ea3-0078-4f7e-b25c-e852d1072585",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-23T23:52:31Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "12237716"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "583213"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 30.5,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 83.53,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-05-13T16:02:30Z"
+      },
+      {
+        "id": "pv3-9510ce01-1683-4f91-90bb-d095bd884ea4",
+        "institutionConsentId": "sdp-1-a9d49d86-8893-4ea0-83aa-d7836c6d9865",
+        "paymentIdempotencyId": "c70116f4-76ff-4c04-90ba-5d3fbc07a329",
+        "paymentLifecycleId": "91d810cc-800e-473b-9030-5702bdd3345b",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-07-12T09:18:49Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "20114674"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "822332"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 23.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 25.11,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-25T19:01:59Z"
+      },
+      {
+        "id": "pv3-0bb94f9e-c82b-40d8-973e-fcf02b6186d4",
+        "institutionConsentId": "sdp-1-4ba4419a-e243-4867-ac7f-577c927cd245",
+        "paymentIdempotencyId": "86c0a1c9-4c1e-46b3-8586-b363d99d128b",
+        "paymentLifecycleId": "7bc1e307-c932-4e73-9167-c56b65b4ba44",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-16T17:32:31Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "44496052"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "214939"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 66.33,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 29.51,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-23T23:40:10Z"
+      },
+      {
+        "id": "pv3-0b0e182f-eae0-42ed-8d64-d5f57dae019e",
+        "institutionConsentId": "sdp-1-8da907e7-d686-4038-b177-f22c168715a8",
+        "paymentIdempotencyId": "2bd4e72a-3873-4574-bdb0-23c5ba9e4311",
+        "paymentLifecycleId": "af604fcc-61d0-4b22-b53f-f0e5619d99ba",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-02T14:44:42Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "20384588"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "385885"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 47.46,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 64.12,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-24T08:49:52Z"
+      },
+      {
+        "id": "pv3-ec5270db-7ecb-4abd-b9ab-4db5ad7841ec",
+        "institutionConsentId": "sdp-1-03c0adea-5539-4fb5-b5c1-16d0dfec9674",
+        "paymentIdempotencyId": "66ec46bb-fd98-4dff-b9e5-ff71e33ced2a",
+        "paymentLifecycleId": "af8f7886-2d88-467d-80a0-72f6cf814c84",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-04T10:10:08Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "92679405"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "683526"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 99.01,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 1.26,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-23T08:23:05Z"
+      },
+      {
+        "id": "pv3-3d9dd2b9-afc4-442e-875e-d34a24bd4670",
+        "institutionConsentId": "sdp-1-057d5f84-e315-47cd-85d4-1369f8da08a1",
+        "paymentIdempotencyId": "5efb1d2a-7319-4029-9e9c-d2d672752663",
+        "paymentLifecycleId": "a3a55877-7616-44c6-9f10-67bc2754c95c",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-24T09:54:45Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "85966178"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "624041"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 5.92,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 41.37,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-01-03T13:29:43Z"
+      },
+      {
+        "id": "pv3-8aa21988-a3d4-4d8d-8219-1f8e1441818d",
+        "institutionConsentId": "sdp-1-42e5d684-4b02-464b-822e-a5b8f82add89",
+        "paymentIdempotencyId": "25729a02-54d4-4b07-bf66-847f79fa08b6",
+        "paymentLifecycleId": "1982680f-d46c-4784-976f-008210f380b2",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-18T10:42:13Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "30429664"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "805764"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 24.68,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 48.53,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-30T00:17:52Z"
+      },
+      {
+        "id": "pv3-cccd376a-480e-4e16-a4dc-bdf646495c11",
+        "institutionConsentId": "sdp-1-a0868772-bc5a-4682-a898-74a604a9d69d",
+        "paymentIdempotencyId": "2a4d8342-a5bc-41d0-8558-16858a5c8e8e",
+        "paymentLifecycleId": "d607521b-adfb-40ad-bba8-c98642df381e",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-02T19:52:20Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "71353647"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "378395"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 47.28,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 62.31,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-12T19:36:22Z"
+      },
+      {
+        "id": "pv3-050ee136-5e91-4379-84cd-ddee7ce89518",
+        "institutionConsentId": "sdp-1-7d9a673d-f095-4db6-942b-2dd52f5cc52c",
+        "paymentIdempotencyId": "1baa12e5-243f-40fc-b85c-c90b5f9f207f",
+        "paymentLifecycleId": "152b6d1e-296a-4d35-9161-2d93e6bdc7f0",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-04-12T13:31:20Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "33299483"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "517832"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 77.88,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 60.26,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-30T22:39:37Z"
+      },
+      {
+        "id": "pv3-6ac90e21-900d-43e2-8e13-6898441263f0",
+        "institutionConsentId": "sdp-1-9f72d43b-46f3-4386-976c-aed63d113dbd",
+        "paymentIdempotencyId": "07673248-c517-41ac-a567-43107a4e5f0c",
+        "paymentLifecycleId": "00a321b2-ab03-4f5c-be1e-71444df7b9c6",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-03T23:05:47Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "48048409"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "382689"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 55.87,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 3.21,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-04-17T12:31:47Z"
+      },
+      {
+        "id": "pv3-7fe60019-17a2-45fc-b636-2c034e33a1ef",
+        "institutionConsentId": "sdp-1-a7c584e7-65fd-42ce-b3d2-0af21811ff1f",
+        "paymentIdempotencyId": "51fc880d-489e-4ecb-b03d-2212717af337",
+        "paymentLifecycleId": "b3c00651-2f55-46aa-9902-9c04253e0e90",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-12-10T23:50:37Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "64732278"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "584546"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 71.45,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 71.37,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-07-03T02:36:49Z"
+      },
+      {
+        "id": "pv3-2db7c179-0f09-411e-8147-0c45674bd661",
+        "institutionConsentId": "sdp-1-35f13667-cf4f-48a1-bde8-b47dce9d9bc1",
+        "paymentIdempotencyId": "5ea6b20b-a888-4611-908e-d51275a5a25a",
+        "paymentLifecycleId": "f50e4783-1bb3-436c-8d69-2c12aa0585f1",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-11T23:12:12Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "18983280"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "499258"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 89.67,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.12,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-17T19:56:34Z"
+      },
+      {
+        "id": "pv3-9e015e10-06b1-4458-94fc-ef6591df2024",
+        "institutionConsentId": "sdp-1-d4cad576-6e84-4fd9-ac04-10517686507b",
+        "paymentIdempotencyId": "5aab64fc-7bcc-4a91-a164-f5dfbd18db3d",
+        "paymentLifecycleId": "b7616e95-c3bb-4cd2-8c9b-fbb6555927e6",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-22T11:31:59Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "90678137"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "489960"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 88.16,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 37.0,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-30T03:10:21Z"
+      },
+      {
+        "id": "pv3-d416d0d9-e279-47f8-83f9-c24f0ebd0f07",
+        "institutionConsentId": "sdp-1-94dcb9b7-6b70-40be-aa38-30cf594c1085",
+        "paymentIdempotencyId": "8ea0d0f8-8698-4ca2-a921-b645c28eea1b",
+        "paymentLifecycleId": "c5a4d32a-40d6-46ae-adbd-a23c5658e5fa",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-29T18:22:21Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "52926971"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "845929"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 18.59,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 14.51,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-09-03T13:23:49Z"
+      },
+      {
+        "id": "pv3-308e3d8d-7360-4790-8b59-a29a834786ac",
+        "institutionConsentId": "sdp-1-8641f94a-44e2-4f03-9dd5-3353ec7bb069",
+        "paymentIdempotencyId": "a6449f69-9548-4d9a-b9de-2c9159580f15",
+        "paymentLifecycleId": "0c988fd9-c557-4540-aa10-705b32f242de",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-20T10:31:59Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37048129"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "124063"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 86.14,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 82.16,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-25T07:38:07Z"
+      },
+      {
+        "id": "pv3-14a2b829-869e-47e9-9e3f-2ffc372d20d9",
+        "institutionConsentId": "sdp-1-acdd321d-2d13-4dc8-a5c8-e09d9659a1ed",
+        "paymentIdempotencyId": "5d23f383-4635-4277-899b-d6db51d33c87",
+        "paymentLifecycleId": "50582bfb-e6b4-40d7-a325-ad69569b9d5c",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-20T16:07:20Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "37194892"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "105785"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 46.21,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 79.28,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-25T11:49:03Z"
+      },
+      {
+        "id": "pv3-19484631-dfc3-495b-8b5d-3a7cf2c1568a",
+        "institutionConsentId": "sdp-1-6ea58101-ac7e-42ba-ac5c-a73635d06e81",
+        "paymentIdempotencyId": "e5e52042-d5a2-40f9-b10a-ea877306fc3e",
+        "paymentLifecycleId": "514c4cd5-08d7-4a98-b00c-9057e71beaf1",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-10-16T03:54:55Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "84185067"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "191548"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 42.67,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.7,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-17T04:22:18Z"
+      },
+      {
+        "id": "pv3-90e8ffb7-60dc-462e-9363-e231d42dc060",
+        "institutionConsentId": "sdp-1-7fdd15cd-c330-4d3c-a271-380907980290",
+        "paymentIdempotencyId": "833cd2e9-0cd2-4f32-8517-6d119f18f202",
+        "paymentLifecycleId": "25bfc7f4-8e8f-4e20-ad99-bfb588a2d6b2",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-08-01T19:05:43Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "52624005"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "305441"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 52.53,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 67.6,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-06-19T00:13:49Z"
+      },
+      {
+        "id": "pv3-08c361c8-8a36-4897-b347-4b405e2a1929",
+        "institutionConsentId": "sdp-1-afb8d69a-7f46-42c3-8d5d-73e1d8f59bc1",
+        "paymentIdempotencyId": "8e37ba43-e832-40c3-8e47-b178a8059550",
+        "paymentLifecycleId": "c9e2cac6-4ec6-40e0-8b4d-dcd4fc7e14ac",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-29T00:06:49Z"
+        },
+        "payeeDetails": {
+          "name": "XYZ SUPPLIES",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "57501521"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "508041"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 67.84,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 28.27,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-03-06T14:12:37Z"
+      },
+      {
+        "id": "pv3-10b85ab7-20bf-4963-973a-8514be084636",
+        "institutionConsentId": "sdp-1-e9e786fc-514b-4b90-b67b-ace7f0b92960",
+        "paymentIdempotencyId": "ddf9650f-2010-4784-a703-e2ad3afbe66c",
+        "paymentLifecycleId": "69a3ba99-5de5-4cc6-8da9-5f38aee398e8",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-28T22:43:46Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "65896024"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "347330"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 84.58,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 85.15,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-10-20T18:17:44Z"
+      },
+      {
+        "id": "pv3-aecf88e1-f9dd-40e6-bfec-e1fb54c62917",
+        "institutionConsentId": "sdp-1-4b1aeced-04c1-4d9e-90df-28b6d065bb8f",
+        "paymentIdempotencyId": "f390ac14-9c33-4514-a2b6-c369aaf28017",
+        "paymentLifecycleId": "ad324689-70f3-40b9-8495-dde437741399",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-01-10T02:35:07Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "98436542"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "196594"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 15.77,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 43.49,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-30T01:53:40Z"
+      },
+      {
+        "id": "pv3-513cbc58-6dae-4365-9adf-7b2b0bd28d52",
+        "institutionConsentId": "sdp-1-b7bf9d27-3e9b-411e-871f-06d13a019d3a",
+        "paymentIdempotencyId": "94ff4179-5ad2-471f-a2fb-733214493585",
+        "paymentLifecycleId": "e5bc2cb1-92c2-40a4-b3ae-92da85416afd",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-03-19T03:14:22Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "10606366"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "808581"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 90.9,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 1.55,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-11T17:52:37Z"
+      },
+      {
+        "id": "pv3-96080519-0061-4b44-afc0-db2457a26b6d",
+        "institutionConsentId": "sdp-1-3e342296-0dfe-4554-b6f1-5801d540b7f0",
+        "paymentIdempotencyId": "65f04150-c7c3-4924-af40-371f0e6f4046",
+        "paymentLifecycleId": "d1e63c45-1b05-4aa6-a896-7a78fd156b07",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-11-18T19:36:38Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "69437864"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "682322"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 66.3,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 52.34,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-14T06:37:47Z"
+      },
+      {
+        "id": "pv3-aa360875-71c6-4168-9178-69e72745d965",
+        "institutionConsentId": "sdp-1-1c9d899b-4111-42f9-bbc3-9883fa5792de",
+        "paymentIdempotencyId": "e9dff265-1159-48a9-be81-8699a7f21abc",
+        "paymentLifecycleId": "fd5aa602-ab57-4d74-8ee9-786fa0cf8548",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-05-14T01:03:56Z"
+        },
+        "payeeDetails": {
+          "name": "JOHN'S BAKERY",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "72474796"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "891717"
+            }
+          ]
+        },
+        "reference": "Bakery Purchase",
+        "amount": 4.9,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 74.72,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-11-01T21:09:47Z"
+      },
+      {
+        "id": "pv3-a6ad333f-821a-46b1-81ae-648eb193c80a",
+        "institutionConsentId": "sdp-1-da937363-ee15-49b6-aa82-4f263733acc0",
+        "paymentIdempotencyId": "e81234c8-1ad2-404a-b5e7-1c50df269b15",
+        "paymentLifecycleId": "276341a2-5d96-4a4f-b8f6-ff6fd85c416d",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-12-25T06:58:51Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "48402697"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "654821"
+            }
+          ]
+        },
+        "reference": "Bills Coffee Shop",
+        "amount": 92.07,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 31.66,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-08-03T19:35:04Z"
+      },
+      {
+        "id": "pv3-a78d640a-3acc-4d4b-b034-65df1527b44f",
+        "institutionConsentId": "sdp-1-c044ea94-09e7-4ca0-8130-229dc23bac6f",
+        "paymentIdempotencyId": "c90c805c-f586-4aef-9dfe-2aaa23908886",
+        "paymentLifecycleId": "679252d1-f4db-40d5-9340-76294ae669e4",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-02-16T06:45:01Z"
+        },
+        "payeeDetails": {
+          "name": "MEGA MART",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "94468588"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "872799"
+            }
+          ]
+        },
+        "reference": "Office Supplies",
+        "amount": 41.77,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 9.19,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-12-01T23:03:17Z"
+      },
+      {
+        "id": "pv3-4008ceff-c646-4707-a6db-bdb8d8d918f6",
+        "institutionConsentId": "sdp-1-027b08f0-f909-46c4-a7d5-00caedc5b8f7",
+        "paymentIdempotencyId": "ce3f689c-2042-42b2-9b9e-98d2fac773d4",
+        "paymentLifecycleId": "b4bf1299-8241-4068-bd2e-a909cd37da2f",
+        "status": "COMPLETED",
+        "statusDetails": {
+          "status": "COMPLETED",
+          "isoStatus": {
+            "code": "ACTC",
+            "name": "AcceptedTechnicalValidation"
+          },
+          "statusUpdateDate": "2021-09-21T05:04:50Z"
+        },
+        "payeeDetails": {
+          "name": "BILLS COFFEE LTD",
+          "accountIdentifications": [
+            {
+              "type": "ACCOUNT_NUMBER",
+              "identification": "41754199"
+            },
+            {
+              "type": "SORT_CODE",
+              "identification": "826557"
+            }
+          ]
+        },
+        "reference": "Grocery Shopping",
+        "amount": 50.21,
+        "currency": "GBP",
+        "amountDetails": {
+          "amount": 5.59,
+          "currency": "GBP"
+        },
+        "createdAt": "2021-02-06T01:07:08Z"
+      }
+    ]
+  }
+}
